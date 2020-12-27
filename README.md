@@ -1,5 +1,4 @@
 # 8-Bit-CPU
-To run program:
 ```console
-python ls8.cpu sctest.ls8
+sctest.ls8 are instructions
 ```
