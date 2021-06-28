@@ -1,4 +1,5 @@
 # 8-Bit-CPU
+- To run:
 ```console
-sctest.ls8 is instructions
+python sctest.ls8
 ```
