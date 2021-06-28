@@ -1,5 +1,5 @@
 # 8-Bit-CPU
-- To run:
+Run with:
 ```console
 python sctest.ls8
 ```
